@@ -1,0 +1,11 @@
+{
+  "name": "clase",
+  "version": "1.0.0",
+  "description": "Clase 28-03-2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome test/suites"
+  },
+  "author": "Oscar",
+  "license": "ISC"
+}
