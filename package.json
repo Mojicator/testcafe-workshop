@@ -4,7 +4,7 @@
   "description": "Clase 28-03-2020",
   "main": "index.js",
   "scripts": {
-    "test": "testcafe chrome test/suites"
+    "test:chrome": "testcafe chrome test/suites"
   },
   "author": "Oscar",
   "license": "ISC",
